@@ -1,0 +1,3 @@
+A valid for stmt in C language is given. The stmt for includes any valid assignment stmt, with no function call or array reference.
+
+Write the necessary grammar to validate the parse stmt and translate into it's equivalent 3 address code.
