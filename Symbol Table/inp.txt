@@ -1,0 +1,16 @@
+{
+	int a,b,c;
+	{
+		char h;
+		{
+			const int abc;
+		}
+	}
+}
+{
+	int b;
+	float c;
+	{
+		char c;
+	}
+}

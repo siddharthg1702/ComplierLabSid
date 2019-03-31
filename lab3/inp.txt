@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+int main(int* a,int *a)
+{
+	/* 
+	kk 
+	*/
+	int a=10;int k=9;
+	int b=20;
+	printf("%d",a%b);
+	return 0;
+	// hello
+	/* 
+	hmm 
+	*/
+}
